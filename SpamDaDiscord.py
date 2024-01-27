@@ -13,12 +13,12 @@ print("""
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 
 message = input("Enter the message you want to spam: ")
 times = int(input("Enter how many times do you want to spam the message: "))
 
-if times < 21:
+if times < 41:
 
 	os.system("cls")
 	print("""
@@ -29,7 +29,7 @@ if times < 21:
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Enter the message you want to spam: "+message)
 	print("Enter how many times do you want to spam the message: "+str(times))
 	print("--------------------------------------------------------------------")
@@ -46,7 +46,7 @@ Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Enter the message you want to spam: "+message)
 	print("Enter how many times do you want to spam the message: "+str(times))
 	print("--------------------------------------------------------------------")
@@ -63,7 +63,7 @@ Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Enter the message you want to spam: "+message)
 	print("Enter how many times do you want to spam the message: "+str(times))
 	print("--------------------------------------------------------------------")
@@ -80,7 +80,7 @@ Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Enter the message you want to spam: "+message)
 	print("Enter how many times do you want to spam the message: "+str(times))
 	print("--------------------------------------------------------------------")
@@ -97,7 +97,7 @@ Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Enter the message you want to spam: "+message)
 	print("Enter how many times do you want to spam the message: "+str(times))
 	print("--------------------------------------------------------------------")
@@ -108,6 +108,7 @@ Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	for i in range(times):
 		pyautogui.typewrite(message)
 		pyautogui.press('Enter')
+		time.sleep(0.1)
 	
 	os.system("cls")
 	print("""
@@ -118,7 +119,7 @@ Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Spammed the message!\n")
 	
 	input("Press Enter to close: ")
@@ -133,11 +134,11 @@ else:
 ██████╔╝██║░░░░░██║░░██║██║░╚═╝░██║  ██████╔╝██║░░██║  ██████╔╝██║██████╔╝╚█████╔╝╚█████╔╝██║░░██║██████╔╝
 ╚═════╝░╚═╝░░░░░╚═╝░░╚═╝╚═╝░░░░░╚═╝  ╚═════╝░╚═╝░░╚═╝  ╚═════╝░╚═╝╚═════╝░░╚════╝░░╚════╝░╚═╝░░╚═╝╚═════╝░
 ==========================================================================================================
-Version 1.0 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
+Version 1.1 - DO NOT ANNOY PEOPLE WITH THIS TOOL!\n""")
 	print("Enter the message you want to spam: "+message)
 	print("Enter how many times do you want to spam the message: "+str(times))
 	print("--------------------------------------------------------------------")
-	input("The amount of times you spam it must be 20 or below.\nPress Enter to re-try: ")
+	input("The amount of times you spam it must be 40 or below.\nPress Enter to re-try: ")
 
 	os.system("cls")
 	os.system("SpamDaDiscord.py")
